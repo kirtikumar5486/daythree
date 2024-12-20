@@ -1,1 +1,3 @@
-Line has been added only in master branch for file_1 file to create merge conflict
+created on experimental branch 
+
+one more line added to experimental branch to learn merge conflict  between master and experimental 
