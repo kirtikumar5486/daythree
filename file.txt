@@ -1,4 +1,6 @@
 this is line 1
 this is line 2
 this is line 3
-addeded 4 thline after creating new branch and noe new branch is behind
+addeded 4th line after creating new branch and noe new branch is behind
+This is what i addede to understand the git 
+This line was added to experimental branch 
